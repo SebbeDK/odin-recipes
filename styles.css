@@ -1,0 +1,12 @@
+ol{
+    border-style: double;
+}
+.home-button{
+    margin: 10px;
+    padding: 5px;
+}
+
+body{
+    align-content: center;
+    text-align: center;
+}
